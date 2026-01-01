@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: salemghaleb/mern-frontend:latest
+          image: salemghaleb/mern-frontend:4
           ports:
             - containerPort: 80
 ---

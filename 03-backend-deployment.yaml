@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: salemghaleb/mern-backend:latest
+          image: salemghaleb/mern-backend:4
           ports:
             - containerPort: 5000
           envFrom:
