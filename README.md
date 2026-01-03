@@ -3,6 +3,6 @@
 Contains:
 - Kubernetes manifests
 - Deployment, Service, Ingress
-- Monitoring configuration
+
 
 ---
